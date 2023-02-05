@@ -1,2 +1,2 @@
-# tydbits
-A place for my @tydbit apps
+# tidbyts
+A place for my @tidbyt apps
