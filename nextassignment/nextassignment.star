@@ -21,7 +21,7 @@ CS484 = 96943
 SPRING23 = [CS326, CS381, CS426, CS456, CS457, CS484]
 SPRING23DICT = {CS326:{"id": "PL", "color": "#F6C"}, CS381:{"id": "GE", "color": "#00F"},CS426:{"id": "SP", "color": "#A30"},CS456:{"id": "TC", "color": "#F00"},CS457:{"id": "DB", "color": "#0F0"},CS484:{"id": "VR", "color": "#90A"}}
 
-CANVAS_TOKEN = "4424~BTa71ppeTR1YVa2mIdOB8c2uFkVGrGnxMq88AR3GhJOtG7JIfEpTr1SDEMSlH932"
+CANVAS_TOKEN = ""
 CANVAS_URL = "https://webcampus.unr.edu"
 AUTH_HEADER = {"Authorization": "Bearer " + CANVAS_TOKEN}
 
